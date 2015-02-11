@@ -5,5 +5,6 @@ Quick visualization of the undergraduate admissions to cambridge university engi
 
 [View ipython notebook in nbviewer](http://nbviewer.ipython.org/github/birdsarah/cambridge-engineering-viz/blob/master/Cambridge%20engineering%20gender%20ratio.ipynb)
 
-# Run it yourself
-- need to install bokeh and pandas
+### Run it yourself
+
+Install: ipython, bokeh, pandas
